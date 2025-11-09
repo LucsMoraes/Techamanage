@@ -7,7 +7,7 @@ Atividade Extra - Techamange
 Engenharia da Computação Quarto Período - UNINORTE 
 -------------------------------------
 
-#2025
+2025
 
 # 🚀 TechManage - Sistema de Gestão de Projetos
 
