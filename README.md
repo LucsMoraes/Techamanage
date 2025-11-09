@@ -1,7 +1,12 @@
-#Equipe: - Lucas Vasconcelos e Yaggo 
-#Atividade Extra - Techamange
-#Engenharia da Computação - UNINORTE 
-#Quarto Período 
+Equipe:
+-------------------------------------
+Lucas Vasconcelos e Yaggo 
+-------------------------------------
+Atividade Extra - Techamange
+-------------------------------------
+Engenharia da Computação Quarto Período - UNINORTE 
+-------------------------------------
+
 #2025
 
 # 🚀 TechManage - Sistema de Gestão de Projetos
