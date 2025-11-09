@@ -1,4 +1,5 @@
-Equipe: Lucas Vasconcelos e Yaggo 
+Equipe:
+Lucas Vasconcelos e Yaggo 
 Atividade Extra
 Engenharia da Computação - UNINORTE 
 Quarto Período 
